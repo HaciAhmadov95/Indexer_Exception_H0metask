@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Indexe_Exception Practice/1.0.0": {
+        "runtime": {
+          "Indexe_Exception Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indexe_Exception Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

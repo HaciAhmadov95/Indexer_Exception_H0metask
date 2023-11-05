@@ -1,0 +1,14 @@
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\bin\Debug\net6.0\HomeTask_Indexer,Exception.exe
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\bin\Debug\net6.0\HomeTask_Indexer,Exception.deps.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\bin\Debug\net6.0\HomeTask_Indexer,Exception.runtimeconfig.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\bin\Debug\net6.0\HomeTask_Indexer,Exception.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\bin\Debug\net6.0\HomeTask_Indexer,Exception.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\HomeTask_Indexer,Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\HomeTask_Indexer,Exception.AssemblyInfoInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\HomeTask_Indexer,Exception.AssemblyInfo.cs
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\HomeTask_Indexer,Exception.csproj.CoreCompileInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\HomeTask_Indexer,Exception.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\refint\HomeTask_Indexer,Exception.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\HomeTask_Indexer,Exception.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\HomeTask_Indexer,Exception.genruntimeconfig.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\28-10-2023 HomeWork\HomeTasks\HomeTask_Indexer,Exception\HomeTask_Indexer,Exception\obj\Debug\net6.0\ref\HomeTask_Indexer,Exception.dll
